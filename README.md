@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Felipe Verones
 
+<p align="justify">
 Estudante de Engenharia de Computação pela UFSC e desenvolvedor de software apaixonado por Inteligência Artificial, especializado em Visão Computacional. Experiência prática em LLMs, LIMs, Bancos de Dados Vetoriais, Embeddings, Redes Neurais Convolucionais e bibliotecas de Data Science. Proficiência em Desenvolvimento Web e Mobile, com ReactJS, React Native, Vue.js e Node.js.
-
+</p>
 
 
 ## Tecnologias e Ferramentas
