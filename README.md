@@ -51,10 +51,6 @@ Estudante de Engenharia de Computação pela UFSC e desenvolvedor de software ap
 
 
 
-
-
-
-
 ## Estudando
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -76,6 +72,7 @@ Estudante de Engenharia de Computação pela UFSC e desenvolvedor de software ap
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeverones&theme=transparent&bg_color=1f222e&border_color=28a428&show_icons=true&icon_color=28a428&title_color=28a428&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipeverones&layout=compact&bg_color=1f222e&border_color=28a428&title_color=28a428&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeverones&theme=bear&bg_color=201f33&show_icons=true&locale=pt-br)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=felipeverones&theme=bear&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=201f33&border=#4747d1&dates=FFF&)](https://github.com/felipeverones)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipeverones&layout=compact&bg_color=201f33&theme=bear&text_color=FFF&locale=pt-br&card_width=466)
 
