@@ -67,7 +67,7 @@ Estudante de Engenharia de Computação pela UFSC e desenvolvedor de software ap
 
 
   
-  ##
+  ## Conecte-se comigo
  
 <div> 
   <a href = "mailto:felipe.verones@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
