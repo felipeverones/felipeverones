@@ -79,5 +79,13 @@ Estudante de Engenharia de Computação pela UFSC e desenvolvedor de software ap
 </div>
 
 
+## Principais Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=NN_digits_pytorch)](https://github.com/felipeverones/NN_digits_pytorch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Algoritmo-Genetico)](https://github.com/felipeverones/Algoritmo-Genetico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Neural_Network_CelsiusToFahrenheit)](https://github.com/felipeverones/Neural_Network_CelsiusToFahrenheit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=YOLO_Computer_Vision)](https://github.com/felipeverones/YOLO_Computer_Vision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Analise-dados-concreto)](https://github.com/felipeverones/Analise-dados-concreto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Desafio_Bridge)](https://github.com/felipeverones/Desafio_Bridge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Desafio_LH_CD)](https://github.com/felipeverones/Desafio_LH_CD)
 
