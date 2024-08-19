@@ -69,14 +69,6 @@ Estudante de Engenharia de Computação pela UFSC e desenvolvedor de software ap
   <a href="https://www.linkedin.com/in/felipe-verones" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## GitHub Stats
-
-<div width="100%">
-  <img width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=felipeverones&theme=bear&bg_color=201f33&show_icons=true&locale=pt-br"/>
-  <img width="50%" align="center" src="https://streak-stats.demolab.com/?user=felipeverones&theme=bear&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=201f33&border=#4747d1&dates=FFF)](https://github.com/felipeverones"/>
-  <img width=397.61 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipeverones&layout=compact&bg_color=201f33&theme=bear&text_color=FFF&locale=pt-br&card_width=397"/>
-</div>
-
 
 ## Principais Projetos
 
@@ -88,3 +80,11 @@ Estudante de Engenharia de Computação pela UFSC e desenvolvedor de software ap
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Desafio_Bridge)](https://github.com/felipeverones/Desafio_Bridge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Desafio_LH_CD)](https://github.com/felipeverones/Desafio_LH_CD)
 
+
+## GitHub Stats
+
+<div width="100%">
+  <img width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=felipeverones&theme=bear&bg_color=201f33&show_icons=true&locale=pt-br"/>
+  <img width="50%" align="center" src="https://streak-stats.demolab.com/?user=felipeverones&theme=bear&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=201f33&border=#4747d1&dates=FFF)](https://github.com/felipeverones"/>
+  <img width=397.61 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipeverones&layout=compact&bg_color=201f33&theme=bear&text_color=FFF&locale=pt-br&card_width=397"/>
+</div>
