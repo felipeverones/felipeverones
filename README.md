@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Verones
 
 <p align="justify">
-Cientista de Dados e Engenheiro de Computação pela UFSC, com sólida experiência em Machine Learning e Inteligência Artificial. Especializado no desenvolvimento de soluções baseadas em Visão Computacional, LLMs e Bancos de Dados Vetoriais. Experiência prática em arquiteturas de Redes Neurais Convolucionais, embeddings semânticos e pipelines de processamento de dados. Proficiente em ferramentas de Data Science e desenvolvimento de aplicações interativas para análise e visualização de dados. Busco contribuir para projetos inovadores que utilizem IA para resolver problemas complexos e gerar impacto estratégico.
+AI Engineer formado em Engenharia de Computação pela UFSC, com sólida experiência em Machine Learning e Inteligência Artificial. Especializado no desenvolvimento de soluções baseadas em Visão Computacional, LLMs e Bancos de Dados Vetoriais. Experiência prática em arquiteturas de Redes Neurais Convolucionais, embeddings semânticos e pipelines de processamento de dados. Proficiente em ferramentas de Data Science e desenvolvimento de aplicações interativas para análise e visualização de dados. Busco contribuir para projetos inovadores que utilizem IA para resolver problemas complexos e gerar impacto estratégico.
 </p>
 
 
