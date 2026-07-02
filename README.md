@@ -38,22 +38,3 @@ AI Engineer formado em Engenharia de Computação pela UFSC, com sólida experi�
   <a href = "mailto:felipe.verones@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-verones" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-## Principais Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=yololit-RDD)](https://github.com/felipeverones/yololit-RDD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Local-RAG)](https://github.com/felipeverones/Local-RAG)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=NN_digits_pytorch)](https://github.com/felipeverones/NN_digits_pytorch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Algoritmo-Genetico)](https://github.com/felipeverones/Algoritmo-Genetico)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=Neural_Network_CelsiusToFahrenheit)](https://github.com/felipeverones/Neural_Network_CelsiusToFahrenheit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felipeverones&theme=bear&bg_color=201f33&repo=YOLO_Computer_Vision)](https://github.com/felipeverones/YOLO_Computer_Vision)
-
-
-## GitHub Stats
-
-<div width="100%">
-  <img width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=felipeverones&theme=bear&bg_color=201f33&show_icons=true&locale=pt-br"/>
-  <img width="50%" align="center" src="https://streak-stats.demolab.com/?user=felipeverones&theme=bear&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=201f33&border=#4747d1&dates=FFF)](https://github.com/felipeverones"/>
-  <img width=397.61 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipeverones&layout=compact&bg_color=201f33&theme=bear&text_color=FFF&locale=pt-br&card_width=397"/>
-</div>
